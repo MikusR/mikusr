@@ -16,3 +16,12 @@
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
     
   </div>
+  
+### Links
+  
+  <div class="column">
+    <a href="https://www.linkedin.com/in/mikusrakis/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </div>
+  
