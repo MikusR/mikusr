@@ -1,4 +1,5 @@
-### Hi there 👋
+### About
+I am a Software Developer and Tech enthusiast. I am focused on PHP and backend Web development.
 
 ### Toolbox
 
@@ -17,7 +18,7 @@
     
   </div>
 
-### 📋 GitHub Projects Worth Mentioning
+### Noteworthy Projects
 
 - [Enterprise Register](https://github.com/MikusR/ur-api)
     - **Built with** - PHP, Carbon
