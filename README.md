@@ -16,8 +16,21 @@
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
     
   </div>
-  
-### Links
+
+### 📋 GitHub Projects Worth Mentioning
+
+- [Enterprise Register](https://github.com/MikusR/ur-api)
+    - **Built with** - PHP, Carbon
+    - **Description** - Application that allows searching for registered companies. And presents available data about them. Using both web API and offline data.
+- [A multilingual news site](https://github.com/MikusR/news-api)
+    - **Built with** - PHP, twig templates, PicoCSS
+    - **Description** - Using web API. Allows search for a topic and filtering by date.
+- [Cryptocurrency Prices](https://github.com/MikusR/crypto-page)
+    - **Built with** - PHP, TailwindCSS
+    - **Description** - Web application showing data about cryptocurrency exchange rates. 
+
+
+### Contacts
   
   <div class="column">
     <a href="https://www.linkedin.com/in/mikusrakis/">
