@@ -20,9 +20,9 @@ I am a Software Developer and Tech enthusiast. I am focused on PHP and backend W
 
 ### Noteworthy Projects
 
-- [Enterprise Register](https://github.com/MikusR/ur-api)
-    - **Built with** - PHP, Carbon
-    - **Description** - Application that allows searching for registered companies. And presents available data about them. Using both web API and offline data.
+- [Simple Task Manager](https://github.com/MikusR/2024-01-17-taskman)
+    - **Built with** - PHP, MySQL
+    - **Description** - Application that allows you to create, see and delete tasks. 
 - [A multilingual news site](https://github.com/MikusR/news-api)
     - **Built with** - PHP, twig templates, PicoCSS
     - **Description** - Using web API. Allows search for a topic and filtering by date.
