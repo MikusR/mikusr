@@ -20,15 +20,15 @@ I am a Software Developer and Tech enthusiast. I am focused on PHP and backend W
 
 ### Noteworthy Projects
 
-- [Simple Task Manager](https://github.com/MikusR/2024-01-17-taskman)
-    - **Built with** - PHP, MySQL
+- [Simple Task Manager](https://github.com/MikusR/taskman)
+    - **Built with** - PHP, MySQL, twig
     - **Description** - Application that allows you to create, see and delete tasks. 
 - [A multilingual news site](https://github.com/MikusR/news-api)
     - **Built with** - PHP, twig templates, PicoCSS
     - **Description** - Using web API. Allows search for a topic and filtering by date.
-- [Cryptocurrency Prices](https://github.com/MikusR/crypto-page)
-    - **Built with** - PHP, TailwindCSS
-    - **Description** - Web application showing data about cryptocurrency exchange rates. 
+- [First 10 days of Advent of Code](https://github.com/MikusR/advent-of-code-2023)
+    - **Built with** - PHP
+    - **Description** - My solutions to first 10 days of 2023 edition of Advent of Code. 
 
 
 ### Contacts
