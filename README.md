@@ -13,7 +13,6 @@ I am a Software Developer and Tech enthusiast. I am focused on PHP and backend W
     <img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white" alt="CSS">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="Typescript"> 
-    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js">  
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
     
   </div>
