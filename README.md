@@ -18,7 +18,9 @@ I am a Software Developer and Tech enthusiast. I am focused on PHP and backend W
   </div>
 
 ### Noteworthy Projects
-
+- [Virtual Wallet](https://github.com/MikusR/virtual-wallet)
+    - **Built with** - Laravel, PHP, MySQL, Blade, PicoCSS
+    - **Description** - Virtual Wallet manager 
 - [Simple Task Manager](https://github.com/MikusR/taskman)
     - **Built with** - PHP, MySQL, twig
     - **Description** - Application that allows you to create, see and delete tasks. 
