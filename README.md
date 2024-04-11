@@ -18,7 +18,7 @@ I am a Software Developer and Tech enthusiast. I am focused on PHP and backend W
   </div>
 
 ### Noteworthy Projects
-- [HN-scraper](https://github.com/MikusR/virtual-wallet](https://github.com/MikusR/hn-scraper)
+- [HN scraper](https://github.com/MikusR/virtual-wallet](https://github.com/MikusR/hn-scraper)
     - **Built with** - Laravel, PHP, MySQL/SQLite, Blade, Vue.js 3, Bootstrap 5, DataTables
     - **Description** - Get and organize Hacker News articles from official api
 - [Virtual Wallet](https://github.com/MikusR/virtual-wallet)
