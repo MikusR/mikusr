@@ -18,7 +18,7 @@ I am a Software Developer and Tech enthusiast. I am focused on PHP and backend W
   </div>
 
 ### Noteworthy Projects
-- [Product List](https://github.com/MikusR/hn-scraper)
+- [Product List](https://github.com/MikusR/product-list)
     - **Built with** - PHP, MySQL, Twig, Bootstrap 5, a pinch of JS
     - **Description** - Application for listing products
 - [HN-scraper](https://github.com/MikusR/hn-scraper)
