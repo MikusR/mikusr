@@ -18,6 +18,12 @@ I am a Software Developer and Tech enthusiast. I am focused on PHP and backend W
   </div>
 
 ### Noteworthy Projects
+- [Incremental game](https://github.com/MikusR/tlgywen)
+    - **Built with** - Typescript, React
+    - **Description** - An incremental (currently clicker) game
+- [Upcoming backend for said game/personal blog](https://github.com/MikusR/tlgywep)
+    - **Built with** - Rails/Ruby
+    - **Description** - Upcoming cloud save/api for game
 - [Product List](https://github.com/MikusR/product-list)
     - **Built with** - PHP, MySQL, Twig, Bootstrap 5, a pinch of JS
     - **Description** - Application for listing products
