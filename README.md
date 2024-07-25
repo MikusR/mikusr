@@ -9,7 +9,7 @@ I am a Software Developer and Tech enthusiast. I am focused on PHP and backend W
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel Icon">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="Typescript"> 
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">     
+    <img src="https://img.shields.io/badge/-Ruby-CC342D?&logo=ruby&logoColor=white" alt="Ruby">     
     <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="MySql"> 
     <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML">
     <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS">
