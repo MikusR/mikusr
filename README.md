@@ -22,6 +22,9 @@ I am a Software Developer and Tech enthusiast. I am focused on PHP and backend W
 - [Incremental game](https://github.com/MikusR/tlgywen)
     - **Built with** - Typescript, React
     - **Description** - An incremental (currently clicker) game
+ - [90min/20min alarm app for android](https://github.com/MikusR/9020minalarm)
+    - **Built with** - Kotlin
+    - **Description** - a small Android app to set wakeup alarms in 90 min intervals
 - [Product List](https://github.com/MikusR/product-list)
     - **Built with** - PHP, MySQL, Twig, Bootstrap 5, a pinch of JS
     - **Description** - Application for listing products
