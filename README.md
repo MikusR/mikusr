@@ -19,6 +19,10 @@ I am a Software Developer and Tech enthusiast. I am focused on PHP and backend W
   </div>
 
 ### Noteworthy Projects
+
+- [Multi user blog](https://github.com/MikusR/social-publishing-platform)
+    - **Built with** - PHP/Laravel, HTML/Blade templates, CSS/Tailwind, JavaScript, sqlite3
+    - **Description** - A Laravel based multi user blog with comments.
 - [Incremental game](https://github.com/MikusR/tlgywen)
     - **Built with** - Typescript, React
     - **Description** - An incremental (currently clicker) game
