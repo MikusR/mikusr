@@ -24,8 +24,7 @@ I am a Software Developer and Tech enthusiast. I am focused on PHP and backend W
 <div class="row">
   <div class="column">
   <a href="https://exercism.org/profiles/MikusR">
-    <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white
-    " alt="Exercism"></a>
+    <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white" alt="Exercism"></a>
     <a href="https://www.codingame.com/profile/afaf33badd9b62d8dc4ba654b17b2ba49849465">
     <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" alt="CodingGane"></a>
   </div>
