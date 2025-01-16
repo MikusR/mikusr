@@ -1,7 +1,8 @@
-### About
+# About
+
 I am a Software Developer and Tech enthusiast. I am focused on PHP and backend Web development.
 
-### Toolbox
+## Toolbox
 
 <div class="row">
   <div class="column">
@@ -18,41 +19,51 @@ I am a Software Developer and Tech enthusiast. I am focused on PHP and backend W
     
   </div>
 
-### Noteworthy Projects
+## Coding Challenges
+
+<div class="row">
+  <div class="column">
+  <a href="https://exercism.org/profiles/MikusR">
+    <img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white
+    " alt="Exercism"></a>
+    <a href="https://www.codingame.com/profile/afaf33badd9b62d8dc4ba654b17b2ba49849465">
+    <img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" alt="CodingGane"></a>
+  </div>
+
+## Noteworthy Projects
 
 - [Multi user blog](https://github.com/MikusR/social-publishing-platform)
-    - **Built with** - PHP/Laravel, HTML/Blade templates, CSS/Tailwind, JavaScript, sqlite3
-    - **Description** - A Laravel based multi user blog with comments.
+  - **Built with** - PHP/Laravel, HTML/Blade templates, CSS/Tailwind, JavaScript, sqlite3
+  - **Description** - A Laravel based multi user blog with comments.
 - [Incremental game](https://github.com/MikusR/tlgywen)
-    - **Built with** - Typescript, React
-    - **Description** - An incremental (currently clicker) game
- - [90min/20min alarm app for android](https://github.com/MikusR/9020minalarm)
-    - **Built with** - Kotlin
-    - **Description** - a small Android app to set wakeup alarms in 90 min intervals
+  - **Built with** - Typescript, React
+  - **Description** - An incremental (currently clicker) game
+- [90min/20min alarm app for android](https://github.com/MikusR/9020minalarm)
+  - **Built with** - Kotlin
+  - **Description** - a small Android app to set wakeup alarms in 90 min intervals
 - [Product List](https://github.com/MikusR/product-list)
-    - **Built with** - PHP, MySQL, Twig, Bootstrap 5, a pinch of JS
-    - **Description** - Application for listing products
+  - **Built with** - PHP, MySQL, Twig, Bootstrap 5, a pinch of JS
+  - **Description** - Application for listing products
 - [HN-scraper](https://github.com/MikusR/hn-scraper)
-    - **Built with** - Laravel, PHP, MySQL/SQLite, Blade, Vue.js 3, Bootstrap 5, DataTables
-    - **Description** - Get and organize Hacker News articles from official api
+  - **Built with** - Laravel, PHP, MySQL/SQLite, Blade, Vue.js 3, Bootstrap 5, DataTables
+  - **Description** - Get and organize Hacker News articles from official api
 - [Virtual Wallet](https://github.com/MikusR/virtual-wallet)
-    - **Built with** - Laravel, PHP, MySQL, Blade, PicoCSS
-    - **Description** - Virtual Wallet manager 
+  - **Built with** - Laravel, PHP, MySQL, Blade, PicoCSS
+  - **Description** - Virtual Wallet manager
 - [Simple Task Manager](https://github.com/MikusR/taskman)
-    - **Built with** - PHP, MySQL, twig
-    - **Description** - Application that allows you to create, see and delete tasks. 
+  - **Built with** - PHP, MySQL, twig
+  - **Description** - Application that allows you to create, see and delete tasks.
 - [First 10 days of Advent of Code](https://github.com/MikusR/advent-of-code-2023)
-    - **Built with** - PHP
-    - **Description** - My solutions to first 10 days of 2023 edition of Advent of Code. 
+  - **Built with** - PHP
+  - **Description** - My solutions to first 10 days of 2023 edition of Advent of Code.
 - [A multilingual news site](https://github.com/MikusR/news-api)
-    - **Built with** - PHP, twig templates, PicoCSS
-    - **Description** - Using web API. Allows search for a topic and filtering by date.
+  - **Built with** - PHP, twig templates, PicoCSS
+  - **Description** - Using web API. Allows search for a topic and filtering by date.
 
-### Contacts
-  
+## Contacts
+
   <div class="column">
     <a href="https://www.linkedin.com/in/mikusrakis/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </div>
-  
