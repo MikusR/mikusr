@@ -36,31 +36,24 @@ I am a Software Developer and Tech enthusiast. I am focused on PHP and backend W
 - [Multi user blog](https://github.com/MikusR/social-publishing-platform)
   - **Built with** - PHP/Laravel, HTML/Blade templates, CSS/Tailwind, JavaScript, sqlite3
   - **Description** - A Laravel based multi user blog with comments.
-- [Incremental game](https://github.com/MikusR/tlgywen)
-  - **Built with** - Typescript, React
-  - **Description** - An incremental (currently clicker) game
 - [90min/20min alarm app for android](https://github.com/MikusR/9020minalarm)
   - **Built with** - Kotlin
   - **Description** - a small Android app to set wakeup alarms in 90 min intervals
-- [Product List](https://github.com/MikusR/product-list)
-  - **Built with** - PHP, MySQL, Twig, Bootstrap 5, a pinch of JS
-  - **Description** - Application for listing products
 - [HN-scraper](https://github.com/MikusR/hn-scraper)
   - **Built with** - Laravel, PHP, MySQL/SQLite, Blade, Vue.js 3, Bootstrap 5, DataTables
   - **Description** - Get and organize Hacker News articles from official api
-- [Virtual Wallet](https://github.com/MikusR/virtual-wallet)
-  - **Built with** - Laravel, PHP, MySQL, Blade, PicoCSS
-  - **Description** - Virtual Wallet manager
-- [Simple Task Manager](https://github.com/MikusR/taskman)
-  - **Built with** - PHP, MySQL, twig
-  - **Description** - Application that allows you to create, see and delete tasks.
 - [First 10 days of Advent of Code](https://github.com/MikusR/advent-of-code-2023)
   - **Built with** - PHP
   - **Description** - My solutions to first 10 days of 2023 edition of Advent of Code.
-- [A multilingual news site](https://github.com/MikusR/news-api)
-  - **Built with** - PHP, twig templates, PicoCSS
-  - **Description** - Using web API. Allows search for a topic and filtering by date.
-
+- [Product List](https://github.com/MikusR/product-list)
+  - **Built with** - PHP, MySQL, Twig, Bootstrap 5, a pinch of JS
+  - **Description** - Application for listing products
+- [Simple Task Manager](https://github.com/MikusR/taskman)
+  - **Built with** - PHP, MySQL, twig
+  - **Description** - Application that allows you to create, see and delete tasks.
+- [Virtual Wallet](https://github.com/MikusR/virtual-wallet)
+  - **Built with** - Laravel, PHP, MySQL, Blade, PicoCSS
+  - **Description** - Virtual Wallet manager
 ## Contacts
 
   <div class="column">
