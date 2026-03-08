@@ -1,6 +1,6 @@
 # About
 
-I am MikusR a Software Developer and Tech enthusiast. I am focused on PHP and backend Web development.
+I am MikusR, a Software Developer and Tech enthusiast. I am focused on PHP and backend Web development.
 
 ## Toolbox
 
