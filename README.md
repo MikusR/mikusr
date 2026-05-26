@@ -33,27 +33,29 @@ I am MikusR, a Software Developer and Tech enthusiast. I am focused on PHP and b
 
 ## Noteworthy Projects
 
-- [Multi user blog](https://github.com/MikusR/social-publishing-platform)
-  - **Built with** - PHP/Laravel, HTML/Blade templates, CSS/Tailwind, JavaScript, sqlite3
-  - **Description** - A Laravel based multi user blog with comments.
 - [HN-scraper](https://github.com/MikusR/hn-scraper)
   - **Built with** - Laravel, PHP, MySQL/SQLite, Blade, Vue.js 3, Bootstrap 5, DataTables
   - **Description** - Get and organize Hacker News articles from official api
+- [Simple Task Manager](https://github.com/MikusR/taskman)
+  - **Built with** - PHP, MySQL, twig
+  - **Description** - Application that allows you to create, see and delete tasks.
+ 
+## Other Projects
 - [First 10 days of Advent of Code](https://github.com/MikusR/advent-of-code-2023)
   - **Built with** - PHP
   - **Description** - My solutions to first 10 days of 2023 edition of Advent of Code.
 - [Product List](https://github.com/MikusR/product-list)
   - **Built with** - PHP, MySQL, Twig, Bootstrap 5, a pinch of JS
   - **Description** - Application for listing products
-- [Simple Task Manager](https://github.com/MikusR/taskman)
-  - **Built with** - PHP, MySQL, twig
-  - **Description** - Application that allows you to create, see and delete tasks.
 - [Virtual Wallet](https://github.com/MikusR/virtual-wallet)
   - **Built with** - Laravel, PHP, MySQL, Blade, PicoCSS
   - **Description** - Virtual Wallet manager
 - [90min/20min alarm app for android](https://github.com/MikusR/9020minalarm)
   - **Built with** - Kotlin, Claude
   - **Description** - a small Android app to set wakeup alarms in 90 min intervals
+- [Multi user blog](https://github.com/MikusR/social-publishing-platform)
+  - **Built with** - PHP/Laravel, HTML/Blade templates, CSS/Tailwind, JavaScript, sqlite3
+  - **Description** - A Laravel based multi user blog with comments.
 ## Contacts
 
   <div class="column">
