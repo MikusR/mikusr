@@ -39,14 +39,13 @@ I am MikusR, a Software Developer and Tech enthusiast. I am focused on PHP and b
 - [Simple Task Manager](https://github.com/MikusR/taskman)
   - **Built with** - PHP, MySQL, twig
   - **Description** - Application that allows you to create, see and delete tasks.
- 
+- [Product List](https://github.com/MikusR/product-list)
+  - **Built with** - PHP, MySQL, Twig, Bootstrap 5, a pinch of JS
+  - **Description** - Application for listing products
 ## Other Projects
 - [First 10 days of Advent of Code](https://github.com/MikusR/advent-of-code-2023)
   - **Built with** - PHP
   - **Description** - My solutions to first 10 days of 2023 edition of Advent of Code.
-- [Product List](https://github.com/MikusR/product-list)
-  - **Built with** - PHP, MySQL, Twig, Bootstrap 5, a pinch of JS
-  - **Description** - Application for listing products
 - [Virtual Wallet](https://github.com/MikusR/virtual-wallet)
   - **Built with** - Laravel, PHP, MySQL, Blade, PicoCSS
   - **Description** - Virtual Wallet manager
