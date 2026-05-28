@@ -33,7 +33,7 @@ I am MikusR, a Software Developer and Tech enthusiast. I am focused on PHP and b
 
 ## Noteworthy Projects
 
-- [HN-scraper](https://github.com/MikusR/hn-scraper)
+- [HN-scraper](https://github.com/MikusR/hn-scraper) [Test instance](https://hn.mikusr.id.lv/)
   - **Built with** - Laravel, PHP, MySQL/SQLite, Blade, Vue.js 3, Bootstrap 5, DataTables
   - **Description** - Get and organize Hacker News articles from official api
 - [Simple Task Manager](https://github.com/MikusR/taskman)
